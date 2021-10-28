@@ -1,9 +1,6 @@
 # Information-Visualization-Spring-2021-Final-Project
-
-### Authors:
-Feifei Wang<br/>
-Ruixi Zhang<br/>
-Ziyang Liao
+#### _Authors_
+Feifei Wang, Ruixi Zhang, Ziyang Liao
 
 ![Final Look of the Project](https://github.com/ian-Liaozy/Information-Visualization-Spring-2021-Final-Project/blob/da477b9315da62e73baffe61ee95f825f99da7da/Screen%20Shot%202021-05-25%20at%205.46.43%20PM.png)
 
